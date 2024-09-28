@@ -59,9 +59,8 @@ The response variable is a quantitative measure of **disease progression** one y
 ## Learning Curves
 
 ### Basic Gradient Descent Learning Curve
-![Basic Gradient Descent](<img width="865" alt="Screenshot 2024-09-28 at 12 11 58 AM" src="https://github.com/user-attachments/assets/0a4f0ffa-cdaf-4ddf-8969-be57c315f712">
-)
+<img width="865" alt="Screenshot 2024-09-28 at 12 11 58 AM" src="https://github.com/user-attachments/assets/0a4f0ffa-cdaf-4ddf-8969-be57c315f712">
 
 
 ### Stochastic Gradient Descent Learning Curve
-![Stochastic Gradient Descent](<img width="867" alt="Screenshot 2024-09-28 at 12 09 46 AM" src="https://github.com/user-attachments/assets/38ee7ee1-2c2e-4f51-892e-e2259d6cfa03">)
+<img width="867" alt="Screenshot 2024-09-28 at 12 09 46 AM" src="https://github.com/user-attachments/assets/38ee7ee1-2c2e-4f51-892e-e2259d6cfa03">
