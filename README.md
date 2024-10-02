@@ -63,4 +63,8 @@ The response variable is a quantitative measure of **disease progression** one y
 
 
 ### Stochastic Gradient Descent Learning Curve
-<img width="867" alt="Screenshot 2024-09-28 at 12 09 46 AM" src="https://github.com/user-attachments/assets/38ee7ee1-2c2e-4f51-892e-e2259d6cfa03">
+![Screenshot 2024-10-01 at 9 10 55 PM](https://github.com/user-attachments/assets/a2cd8e2d-4f19-4e34-b22e-5d75c71b1b2f)
+
+
+
+
