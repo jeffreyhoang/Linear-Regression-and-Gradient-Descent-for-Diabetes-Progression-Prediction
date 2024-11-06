@@ -1,6 +1,4 @@
 # Linear Regression and Gradient Descent for Diabetes Progression Prediction
- 
-# Diabetes Progression Prediction using Linear Regression
 
 This project demonstrates the application of **linear regression** and optimization techniques such as **basic gradient descent** and **stochastic gradient descent (SGD)** to predict diabetes progression based on patient data. The project also utilizes the **Scikit-learn** library to build a linear regression model and compares the performance of custom-implemented models against Scikit-learn's model.
 
